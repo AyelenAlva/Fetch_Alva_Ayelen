@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+#emoji-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.emoji-card {
+    margin: 10px;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+}
+
+.emoji {
+    font-size: 2rem;
+}
